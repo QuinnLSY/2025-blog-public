@@ -42,19 +42,19 @@
 		"enabled": true
 	},
 	"socialButtons": {
-		"width": 315,
-		"height": 48,
+		"width": 548,
+		"height": 57,
 		"order": 6,
-		"offsetX": -164,
-		"offsetY": 160,
+		"offsetX": -765,
+		"offsetY": 369,
 		"enabled": true
 	},
 	"shareCard": {
 		"width": 365,
 		"height": 177,
 		"order": 7,
-		"offsetX": -175,
-		"offsetY": 228,
+		"offsetX": -178,
+		"offsetY": 185,
 		"enabled": true
 	},
 	"articleCard": {
