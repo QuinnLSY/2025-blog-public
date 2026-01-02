@@ -52,7 +52,7 @@
 			"id": "github",
 			"type": "github",
 			"value": "https://github.com/yysuni",
-			"label": "Github",
+			"label": "原作者Github",
 			"order": 2
 		},
 		{
@@ -61,6 +61,13 @@
 			"value": "https://space.bilibili.com/1335938933/upload/video",
 			"label": "Bilibili",
 			"order": 3
+		},
+		{
+			"id": "button-1767368931930",
+			"type": "github",
+			"value": "https://github.com/QuinnLSY",
+			"label": "MyGithub",
+			"order": 4
 		}
 	],
 	"clockShowSeconds": true,
