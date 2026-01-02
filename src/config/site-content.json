@@ -49,17 +49,17 @@
 			"order": 1
 		},
 		{
-			"id": "github",
-			"type": "github",
-			"value": "https://github.com/yysuni",
-			"label": "原作者Github",
-			"order": 2
-		},
-		{
 			"id": "juejin",
 			"type": "bilibili",
 			"value": "https://space.bilibili.com/1335938933/upload/video",
 			"label": "Bilibili",
+			"order": 2
+		},
+		{
+			"id": "github",
+			"type": "github",
+			"value": "https://github.com/yysuni",
+			"label": "YYGithub",
 			"order": 3
 		},
 		{
