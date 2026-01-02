@@ -1,5 +1,15 @@
 [
   {
+    "slug": "26-12",
+    "title": "哈哈哈哈",
+    "tags": [],
+    "date": "2026-01-03T00:39",
+    "summary": "",
+    "cover": "/blogs/26-12/4bc385e5109798dd.png",
+    "hidden": false,
+    "category": ""
+  },
+  {
     "slug": "fix-screen",
     "title": "解决电脑屏幕帧数问题",
     "tags": [
